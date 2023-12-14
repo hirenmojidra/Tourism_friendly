@@ -176,7 +176,7 @@
 
     <div class="box">
         <div class="image">
-            <img src="goa.jpg" alt="">
+            <img src="images/goa.jpg" alt="">
         </div>
         <div class="content">
             <h3>adventure & tour</h3>
